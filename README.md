@@ -15,6 +15,7 @@ lunr-languages is supporting following languages.
 
 | language | code |
 | --- | --- |
+| Chinese | zh |
 | German | de |
 | French | fr |
 | Spanish | es |
@@ -47,7 +48,7 @@ Add it to your `book.json` configuration:
 	...
     "pluginsConfig": {
         "searchLanguages": {
-            "lang": "jp"
+            "lang": "zh"
         }
     }
 }
