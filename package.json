@@ -6,19 +6,19 @@
   "engines": {
     "gitbook": ">=3.*.*"
   },
-  "homepage": "https://github.com/yoshidax/gitbook-plugin-search-languages#readme",
+  "homepage": "https://github.com/superwifi/gitbook-plugin-search-languages#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoshidax/gitbook-plugin-search-languages.git"
+    "url": "git+https://github.com/superwifi/gitbook-plugin-search-languages.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yoshidax/gitbook-plugin-search-languages/issues"
+    "url": "https://github.com/superwifi/gitbook-plugin-search-languages/issues"
   },
   "dependencies": {
     "gitbook-plugin-lunr": "1.2.0",
     "lunr": "0.5.12",
-    "lunr-languages": "yoshidax/lunr-languages#yoshidax_build"
+    "lunr-languages": "superwifi/lunr-languages"
   },
   "devDependencies": {
     "uglify-js": "2.7.5"
